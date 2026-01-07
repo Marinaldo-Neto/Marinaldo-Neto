@@ -1,40 +1,63 @@
-<h2 align="left">Hi 👋! My name is Marinaldo and I'm a Dev, from Brasil</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4DA1FF&reversal=false"/>
 
-###
-
-- 🌱 I'm learning React and TypeScript ⚡ I like to play electronic games and play sports
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marinaldo-Neto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinaldo-neto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&pause=1000&color=4DA1FF&center=true&vCenter=true&width=700&height=60&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Marinaldo.+Tudo+bem%3F;Hello%2C+my+name+is+Marinaldo.+How+are+you%3F;Hola%2C+soy+Marinaldo.+%C2%BFTodo+bien%3F" alt="Typing SVG" /></a>
 </div>
 
-###
+<br/>
 
-<img align="right" height="150" src="https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif?cid=ecf05e478qbh9wxh61j2vkh7frz3pu70v5faqu75q9xwmqhu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img widht="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo" />
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marinaldo-Neto&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marinaldo-Neto&theme=blueberry" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marinaldo-Neto&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marinaldo-Neto&theme=blueberry&utcOffset=8" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marinaldo-Neto&theme=blueberry" />
 </div>
 
-##
+<br/>
 
-<div align="left">
-  <a href="https://www.instagram.com/marinaldo.neto"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="https://www.linkedin.com/in/marinaldo-neto"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+<div align="center">
+  <samp>
+    <b>
+      Skills:
+    </b>
+  </samp>
+</div>
+<div align="center" style="display: inline_block"><br>
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Godot-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg">
 </div>
 
-###
+<br/>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-%234DA1FFFF?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:marinaldoneto15@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%234DA1FFFF?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/marinaldo.neto)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-%234DA1FFFF?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/marinaldo-neto)
+  
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4DA1FFFF&reversal=false&section=footer"/>
